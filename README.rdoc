@@ -4,6 +4,6 @@ Todo list
 
 A SPA that fetches data using RESTful JSON APIs from Rails and uses JavaScript/Jquery to dynamically update the page.
 
-Based on todo-mvc: http://todomvc.com/
+Based on todo-mvc: http://todomvc.com
 
-Tha app is deployed at: https://todo-ronny-almog.herokuapp.com/
+Tha app is deployed at: https://todo-ronny-almog.herokuapp.com
